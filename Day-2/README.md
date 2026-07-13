@@ -32,4 +32,3 @@
 - **Language:** MySQL
 - **Difficulty:** Easy (2)
 - **Status:** Accepted ✅
-- **Date:** 13 July 2026
